@@ -1,0 +1,15 @@
+For Test1>
+vcover report -details -file rep_Test1.txt cov_Test1.db
+For Test2>
+vcover report -details -file rep_Test2.txt cov_Test2.db
+For Test3>
+vcover report -details -file rep_Test3.txt cov_Test3.db
+For Test4>
+vcover report -details -file rep_Test4.txt cov_Test4.db
+For Test5>
+vcover report -details -file rep_Test5.txt cov_Test5.db
+
+Other Commands>
+http://www.cs.pitt.edu/~don/coe1502/Reference/vsim_quickref.pdf
+
+AlejandroGuerena_Final_Project_EDCI
